@@ -1,8 +1,7 @@
 # frozen_string_literal: true
 
 # TotalDiscount class used to add discounts can be
-# percentage or overall cost just add a new method
-# to the classto basket total
+# percentage or overall cost
 class TotalDiscount
   attr_reader :precentage, :price
 

@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# Item class used to add dicots to basket total
+# Item class used to add discounts to basket total
 class Item
   attr_reader :code, :name
   attr_accessor :price
