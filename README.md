@@ -30,9 +30,10 @@ You should see the output bellow
 
 There are 11 test examples written in **rspec** each class has it own rspec test
 
-run: `bundle exec rspec -f d`
+** run:**  `bundle exec rspec -f d`
 
 Project also uses **RuboCop** which is a Ruby static code analyzer
 
 **run:** `bundle exec rubocop`
+
 
