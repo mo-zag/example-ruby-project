@@ -1,10 +1,10 @@
 # Challenge project
 
-Download or checkout project navigate to the directory of downloaded project
+Download or checkout project navigate to the directory you downloaded the project in.
 
 **run:** `bundle install`
 
-There a file **run.rb** which has the following examples also these examples are also testing **checkout_spec.rb** file
+File **run.rb** which has the following examples just as quick test, also these examples are fully testing in rspec **checkout_spec.rb** file
 
 <pre lang="no-highlight"><code>
 Test data
