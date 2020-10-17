@@ -22,10 +22,10 @@ Total price expected: £73.76
 **run:** `ruby run.rb`
 
 You should see the output bellow
-<pre lang="no-highlight"><code>£0.00
-£66.78
-£36.95
-£73.76
+<pre lang="no-highlight"><code>0
+6678 
+3695
+7376
 </code></pre>
 
 There are 11 test examples written in **rspec** each class has it own rspec test
